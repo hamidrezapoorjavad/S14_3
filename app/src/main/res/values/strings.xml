@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">S14_3</string>
+    <string name="tv2">----</string>
+    <string name="tv_1">u 9415992</string>
+    <string name="tv3">0</string>
+    <string name="tv4">0 امتیاز</string>
+    <string name="tv_5">حریف شناسی !</string>
+    <string name="tv_8">سوالات متداول</string>
+    <string name="tv_7">تماس با ما</string>
+    <string name="tv_3">0</string>
+    <string name="btn_2">دوست !</string>
+    <string name="tv_6">بقیه رو به مبارزه تک به تک دعوت کن تا نشون بدی کی از کی قوی تره:))</string>
+    <string name="img2_content">instagram icon</string>
+    <string name="img3_content">twitter icon</string>
+    <string name="img4_content">bear picture</string>
+    <string name="img1_content">iron man picture</string>
+    <string name="imgNa1_content">user name</string>
+    <string name="tv_Na_1">User name</string>
+    <string name="save">save</string>
+    <string name="like">like</string>
+    <string name="search">search</string>
+</resources>

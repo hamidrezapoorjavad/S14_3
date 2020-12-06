@@ -1,0 +1,24 @@
+<vector android:height="25dp" android:viewportHeight="1000"
+    android:viewportWidth="1000" android:width="25dp"
+    xmlns:aapt="http://schemas.android.com/aapt" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:pathData="M770,950H230c-99,0 -180,-81 -180,-180V230c0,-99 81,-180 180,-180h540c99,0 180,81 180,180v540C950,869 869,950 770,950z">
+        <aapt:attr name="android:fillColor">
+            <gradient android:centerX="228.5746"
+                android:centerY="926.3052"
+                android:gradientRadius="1160.8756" android:type="radial">
+                <item android:color="#FFFCEE21" android:offset="0"/>
+                <item android:color="#FFFBE721" android:offset="0.04431516"/>
+                <item android:color="#FFFAD322" android:offset="0.1099"/>
+                <item android:color="#FFF8B222" android:offset="0.1887"/>
+                <item android:color="#FFF48523" android:offset="0.2769"/>
+                <item android:color="#FFF15A24" android:offset="0.35"/>
+                <item android:color="#FFD4145A" android:offset="0.5"/>
+                <item android:color="#FF93278F" android:offset="0.8"/>
+                <item android:color="#FF93278F" android:offset="1"/>
+            </gradient>
+        </aapt:attr>
+    </path>
+    <path android:fillColor="#FFFFFF" android:pathData="M663.3,150H336.7C234,150 150,234 150,336.7v326.7C150,766 234,850 336.7,850h326.7C766,850 850,766 850,663.3V336.7C850,234 766,150 663.3,150zM791.7,643.9c0,81.3 -66.5,147.8 -147.8,147.8H356.1c-81.3,0 -147.8,-66.5 -147.8,-147.8V356.1c0,-81.3 66.5,-147.8 147.8,-147.8h287.8c81.3,0 147.8,66.5 147.8,147.8V643.9z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M500,300c-110.5,0 -200,89.5 -200,200c0,110.5 89.5,200 200,200s200,-89.5 200,-200C700,389.5 610.5,300 500,300zM500,627.7c-70.5,0 -127.7,-57.2 -127.7,-127.7c0,-70.5 57.2,-127.7 127.7,-127.7S627.7,429.5 627.7,500C627.7,570.5 570.5,627.7 500,627.7z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M700,300m-40,0a40,40 0,1 1,80 0a40,40 0,1 1,-80 0"/>
+</vector>
